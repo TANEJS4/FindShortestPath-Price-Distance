@@ -1,0 +1,20 @@
+BFS: New York City, Philadelphia, Baltimore, Washington, Charlotte, Atlanta, Jacksonville, Miami
+DFS: New York City, Pittsburgh, Columbus, Chicago, St. Louis, Memphis
+
+Table:
+BFS result: 
+Nashville          McChicken - Meal    $3.79
+New York City          Double Cheeseburger - Meal    $4.38
+Baltimore          McChicken - Meal    $3.79
+Seattle          Double Cheeseburger - Meal    $4.38
+Boston          McChicken - Meal    $3.79
+Atlanta          Double Cheeseburger - Meal    $4.38
+Houston          McChicken - Meal    $3.79
+
+
+DFS result: 
+Nashville        McChicken - Meal    $3.79
+Philadelphia        Double Cheeseburger - Meal    $4.38
+Charlotte        McChicken - Meal    $3.79
+Boston        Double Cheeseburger - Meal    $4.38
+San Francisco        McChicken - Meal    $3.79

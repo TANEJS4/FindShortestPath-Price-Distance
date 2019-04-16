@@ -1,0 +1,14 @@
+COMPSCI 2XB3
+Shivam Taneja
+400160537
+the fact that the work being submitted by you is your individual work. - March 27th 2019
+design specification:
+
+ 1. path and digraph are inspired by course required book.
+ 2. When ran independently -> Path is correct, please look into that(BFSpath and DFSpath)
+	 unable to find reason for this, since i am just taking the output as my variable and not references
+	 
+ 3. since McDonalds was available in all the cities, The results are with McDonalds only.
+ 4. Changes shall be done inside each class.
+ 5. run the class "run.java" for output. [NOTE: output is wrong when runned from this file
+ 					 please consider running the BFSpath.java and DFSpath.java;] 

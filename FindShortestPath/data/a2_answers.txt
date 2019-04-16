@@ -1,0 +1,11 @@
+3.1
+graph to be used is directed graph (aka Digraph), it can be edge weighted directed graph as well.
+Nodes represent the city; Here i assigned integer value to each city
+edge represent from and to, i.e. since it is one way, it represents to direction.
+
+3.2
+BFS results in the less number of steps
+BFS will find optimal solution if there exists more than one path but at a cost of high memory usage;
+
+
+
